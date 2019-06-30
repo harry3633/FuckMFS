@@ -95,7 +95,3 @@ $ su
 ## 最后
 
 还是物理隔离安全 (
-
-## 交流
-
-[Telegram 群组](https://t.me/joinchat/M5LsLE86uw8vGFqEBNi4NA)
